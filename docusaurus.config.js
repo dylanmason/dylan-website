@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Fortnite',
+  tagline: 'Battle Royal',
   url: 'https://dylanmason.github.io',
   baseUrl: '/dylan-website/',
   onBrokenLinks: 'throw',
@@ -40,25 +40,16 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ///** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Fortnite',
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            label: 'About',
           },
         ],
       },
@@ -66,11 +57,12 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Where to download',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Epic Games',
+		href: 'https://www.epicgames.com/fortnite/en-US/download',
+                //to: '/docs/intro',
               },
             ],
           },
@@ -78,16 +70,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/fortnite/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Twitch',
+                href: 'https://www.twitch.tv/directory/game/Fortnite',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/FortniteGame?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
               },
             ],
           },
@@ -95,17 +87,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Leaderboards',
+                href: 'https://fortnitetracker.com/leaderboards',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Epic Games`,
       },
       prism: {
         theme: lightCodeTheme,
