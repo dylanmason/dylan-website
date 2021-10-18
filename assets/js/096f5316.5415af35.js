@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdylan_website=self.webpackChunkdylan_website||[]).push([[340],{7213:function(e){e.exports=JSON.parse('{"allTagsPath":"/dylan-website/blog/tags","slug":"/dylan-website/blog/tags/hello","name":"hello","count":2,"permalink":"/dylan-website/blog/tags/hello"}')}}]);
