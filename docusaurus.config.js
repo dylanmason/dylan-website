@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Fortnite',
-  tagline: 'Battle Royal',
+  title: 'Fortnite Battle Royal',
+  tagline: 'Click the About tab for more information!',
   url: 'https://dylanmason.github.io',
   baseUrl: '/dylan-website/',
   onBrokenLinks: 'throw',
