@@ -11,6 +11,8 @@ other players from hitting them.
 
 <center><img src="https://th.bing.com/th/id/OIP.rVhQJ-FtpxVyyz86gOslUAHaEK?w=323&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" class="center"></img></center>
 
+## What you need in order to play
+The only materials you need are a computer, or if you want to play console, an [Xbox](https://www.xbox.com/en-US/consoles/xbox-series-x) or a [Playstation](https://www.playstation.com/en-us/ps5/?smcid=pdc%3Aen-us%3Aprimary%20nav%3Amsg-hardware%3Aps5)!
 ## How to download
 
 You can go to [Epic Games' Website](https://www.epicgames.com/fortnite/en-US/download) and choose download
@@ -32,4 +34,5 @@ cost money.
 
 To get support, you can head over to [Epic Games' Support](https://www.epicgames.com/fortnite/en-US/help-center) and ask any questions.
 
-
+## Where/how to contribute
+Epic games currently does not have a place where you can contribute directly to the company, although downloading and playing their games is a big contribution in itself! 
