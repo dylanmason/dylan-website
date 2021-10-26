@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dylanmason.github.io/dylan-website/blog</id>
-    <title>Fortnite Blog</title>
+    <title>Fortnite Battle Royal Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dylanmason.github.io/dylan-website/blog"/>
-    <subtitle>Fortnite Blog</subtitle>
+    <subtitle>Fortnite Battle Royal Blog</subtitle>
     <icon>https://dylanmason.github.io/dylan-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
